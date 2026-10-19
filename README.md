@@ -45,6 +45,11 @@ The game is mainly designed to be played with a controller, but keyboard control
 | Change Music | Face Button Top (Y on Xbox) | W |
 | Navigate Menus | Left Thumbstick Up / Down | Mouse |
 
+## Demo
+
+https://github.com/user-attachments/assets/1a72342c-804a-4621-b8ee-15458a0c2238
+
+
 ## Credits
 
 This project was created by Katia Kaci as part of the Ubisoft Warm Up Program.
@@ -56,8 +61,6 @@ This project was created by Katia Kaci as part of the Ubisoft Warm Up Program.
 - **Images:** ChatGPT, Imaginarium
 
 - **Sounds and Music:** Mixkit, Uppbeat, Pixabay
-
-
 
 <p align="center" style="font-size: 42px; margin-bottom: 10px;">
 Enjoy playing! 😀
