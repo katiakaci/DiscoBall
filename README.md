@@ -10,11 +10,13 @@
    <b>Roll, collect, and survive in this colorful arcade challenge where your disco ball constantly changes color!</b>
 </div>
 
-## How to run the game
+## How to play the game
 
-1. Unzip the DiscoBall_Build folder
-2. Open the folder DiscoBall_Build
-3. Launch RollingBallGame.exe
+1. Go to the Releases section of this repository
+2. Download the latest version of DiscoBall_Build.zip
+3. Extract the archive
+4. Open the extracted DiscoBall_Build folder
+5. Launch RollingBallGame.exe
 
 ## Goal
 
